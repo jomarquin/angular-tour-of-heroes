@@ -13,8 +13,8 @@ import { HeroesComponent } from './heroes/heroes.component';
     HeroesComponent
   ],
   imports: [
-    BrowserModule
-	FormsModule
+    BrowserModule,
+	  FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
